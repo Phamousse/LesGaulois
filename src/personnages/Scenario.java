@@ -17,8 +17,6 @@ public class Scenario {
 		System.out.println("Astérix envoie un grand coup dans la mâchoire de Minus");
 		minus.parler("Aïe");
 		System.out.println("Astérix envoie un grand coup dans la mâchoire de Minus");
-		minus.parler("Aïe");
-		System.out.println("Astérix envoie un grand coup dans la mâchoire de Minus");
 		minus.parler("J'abandonne");
 		
 	}
